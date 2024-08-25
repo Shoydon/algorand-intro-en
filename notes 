@@ -1,0 +1,9 @@
+Every account has a minimum balance
+ - Transactions that go below this amount are rejected
+
+Starting Account MBR: 0.1 ALGO
+ - Need 0.1 ALGO to be in the ledger
+ - 0 ALGO = deleted account
+
+MBR increases when database-size increases
+ - Like "renting" the space on-chain
